@@ -1,0 +1,616 @@
+############ http://www.ecprd.org/
+108.177.127.188 - GOGL
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+
+34.117.59.81 - GOOGL-2
+OrgName:        Google LLC
+OrgId:          GOOGL-2
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+
+############ https://ape-europe.org
+
+104.16.19.94
+OrgName:        Cloudflare, Inc.
+OrgId:          CLOUD14
+Address:        101 Townsend Street
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94107
+Country:        US
+
+172.217.17.110
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+
+############ http://www.formermembers.eu
+
+152.199.21.141
+rgName:        ANS Communications, Inc
+OrgId:          ANS
+Address:        22001 Loudoun County Parkway
+City:           Ashburn
+StateProv:      VA
+PostalCode:     20147
+Country:        US
+
+188.65.219.176
+netname:        MAEHDROS-NET
+descr:          MAEHDROS HOSTING
+country:        BE
+admin-c:        BM1211-RIPE
+tech-c:         BM1211-RIPE
+
+############ http://www.ecprd.org/
+
+93.184.220.70
+CITY  Culver City
+ORGANIZATION  AS15133 Verizon Business
+
+35.209.28.70
+OrgName:        Google LLC
+OrgId:          GOOGL-2
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+
+52.40.229.111
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+
+136.173.170.135
+netname:        EP-PE-NET
+descr:          European Parliament
+descr:          DG ITEC Cellule Marchés
+descr:          LUXEMBOURG L-2929
+country:        LU
+
+64.91.226.82
+rgName:        Liquid Web, L.L.C
+OrgId:          LQWB
+Address:        4210 Creyts Rd.
+City:           Lansing
+StateProv:      MI
+
+172.217.17.110
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+
+
+############ http://www.ape-europe.org
+
+108.177.127.188
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+
+136.173.170.135
+descr:          European Parliament
+descr:          DG ITEC Cellule Marchés
+descr:          LUXEMBOURG L-2929
+country:        LU
+admin-c:        WD727-RIPE
+tech-c:         PK2987-RIPE
+
+172.217.17.110
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+
+64.91.226.82
+rgName:        Liquid Web, L.L.C
+OrgId:          LQWB
+Address:        4210 Creyts Rd.
+City:           Lansing
+StateProv:      MI
+
+
+############ http://european-convention.europa.eu
+
+194.32.107.204
+country:        NO
+org-type:       LIR
+address:        Klinestadmoen 10
+address:        3241
+address:        Sandefjord
+address:        NORWAY
+
+193.52.21.114
+descr:          CEA-CSEM-BRUYERES
+descr:          Centre Sismologique Euro-Mediterraneen (CSEM)
+country:        FR
+
+139.191.221.20
+netname:        JRCISPRA
+descr:          Commission of the European Communities
+descr:          Joint Research Centre
+country:        EU
+
+############ http://europa.eu
+
+18.66.97.97
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+
+147.67.34.45
+org-name:       European Commission
+country:        LU
+org-type:       LIR
+address:        12, rue Guillaume Kroll,
+address:        L-1882
+
+35.209.28.70
+OrgName:        Google LLC
+OrgId:          GOOGL-2
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+
+92.123.106.56
+address:        Akamai Technologies
+address:        145 Broadway
+address:        Cambridge, MA 02142
+
+
+############ http://consilium.europa.eu
+
+104.16.94.21
+OrgName:        Cloudflare, Inc.
+OrgId:          CLOUD14
+Address:        101 Townsend Street
+City:           San Francisco
+StateProv:      CA
+
+3.229.56.175
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+
+147.67.34.45
+org-name:       European Commission
+country:        LU
+org-type:       LIR
+address:        12, rue Guillaume Kroll,
+address:        L-1882
+
+18.66.97.97
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+
+############ http://www.cdt.europa.eu
+
+104.16.94.21
+OrgName:        Cloudflare, Inc.
+OrgId:          CLOUD14
+Address:        101 Townsend Street
+City:           San Francisco
+StateProv:      CA
+
+64.91.226.82
+OrgName:        Liquid Web, L.L.C
+OrgId:          LQWB
+Address:        4210 Creyts Rd.
+City:           Lansing
+StateProv:      MI
+
+35.209.28.70
+OrgName:        Google LLC
+OrgId:          GOOGL-2
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+
+185.104.108.52
+person:         Pascal Dufour
+address:        Centre de Traduction des organes de l'union Europeenne
+address:        12E rue Guillaume Kroll
+address:        L-1882 Luxembourg
+
+############ http://www.eionet.europa.eu
+
+52.40.229.111
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+
+87.54.7.143
+netname:        EUROPEAN-ENVIRONMENT-AGENCY-NET
+descr:          European Environment Agency
+descr:          Kongens Nytorv,6
+descr:          1050 Koebenhavn K
+country:        DK
+
+35.209.28.70
+OrgName:        Google LLC
+OrgId:          GOOGL-2
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+
+############ http://cordis.europa.eu
+
+185.3.44.3
+netname:        intrasoftlux1
+descr:          Intrasoft Luxembourg
+country:        LU
+
+108.177.127.188
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+
+52.25.13.236
+ddress:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+
+84.53.161.43
+netname:        AKAMAI-PA
+descr:          Akamai Technologies
+country:        EU
+
+35.209.28.70
+OrgName:        Google LLC
+OrgId:          GOOGL-2
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+
+
+
+############ http://www.curia.europa.eu
+
+
+147.67.34.14
+org-name:       European Commission
+country:        LU
+org-type:       LIR
+address:        12, rue Guillaume Kroll,
+address:        L-1882
+address:        Luxembourg
+address:        LUXEMBOURG
+
+34.98.96.51
+OrgName:        Google LLC
+OrgId:          GOOGL-2
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+
+64.91.226.82
+OrgName:        Liquid Web, L.L.C
+OrgId:          LQWB
+Address:        4210 Creyts Rd.
+City:           Lansing
+StateProv:      MI
+
+54.144.231.21
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+
+
+############ http://www.ecb.int
+
+193.52.21.114
+netname:        FR-CEA-CSEM-BRUYERES
+descr:          CEA-CSEM-BRUYERES
+descr:          Centre Sismologique Euro-Mediterraneen (CSEM)
+country:        FR
+
+139.191.221.20
+address:        European Commission
+address:        Joint Research Centre
+address:        Via Enrico Fermi, 2749
+address:        21027 Ispra (VA)
+address:        Italy
+
+193.218.118.42
+netname:        UDN
+descr:          Ukrainian Data Network
+remarks:        https://www.urdn.com.ua
+org:            ORG-EL355-RIPE
+country:        UA
+
+18.66.139.81
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+
+203.129.68.37
+person:         Hutchison GlobalCenter
+address:        2/F, Somerset House Taikoo Place979 King's Road Quarry Bay
+address:        Hong Kong
+country:        HK
+
+35.209.28.70
+OrgName:        Google LLC
+OrgId:          GOOGL-2
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+
+
+
+
+############ http://www.eesc.europa.eu
+
+
+193.105.133.93
+org-name:       Diogenius SPRL
+country:        BE
+org-type:       LIR
+address:        Rue Emile Franqui 6 - 2nd Floor
+
+147.67.34.45
+org-name:       European Commission
+country:        LU
+org-type:       LIR
+address:        12, rue Guillaume Kroll,
+address:        L-1882
+address:        Luxembourg
+address:        LUXEMBOURG
+
+2.22.22.171
+org-name:       Akamai International B.V.
+country:        NL
+org-type:       LIR
+address:        8 Cambridge Center
+address:        02142
+address:        Cambridge, MA
+address:        UNITED STATES
+
+############ http://www.cor.europa.eu
+
+176.65.73.94
+country:        Lu
+address:        5 rue Eugene Ruppert
+address:        L-2453 Luxembourg
+
+3.229.56.175
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+PostalCode:     98109
+Country:        US
+
+64.91.226.82
+OrgName:        Liquid Web, L.L.C
+OrgId:          LQWB
+Address:        4210 Creyts Rd.
+City:           Lansing
+StateProv:      MI
+
+
+############ http://publications.europa.eu/
+
+35.209.28.70
+OrgName:        Google LLC
+OrgId:          GOOGL-2
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+
+
+############ http://www.ombudsman.europa.eu
+
+136.173.170.137
+descr:          European Parliament
+descr:          DG ITEC Cellule Marchés
+descr:          LUXEMBOURG L-2929
+country:        LU
+
+5.62.40.217
+role:           Privax LTD
+address:        7th Floor, 110 High Holborn, London WC1V 6JS
+netname:        UK-PRIVAX-20120608
+descr:          PRCDN Consumer Pool
+descr:          PoP Frankfurt
+
+############ http://www.europol.europa.eu
+
+52.34.82.225
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+
+95.217.68.157
+person:         Spyros Michailidis
+address:        Eworx S.A.
+address:        66 J. Moreas
+address:        15231 Athens
+address:        GREECE
+netname:        EWORX-SA
+descr:          Eworx S.A.
+country:        DE
+
+108.177.127.188
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+
+52.34.82.225
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+
+
+############ https://www.ipu.org
+
+
+52.210.208.94
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+
+
+############ http://www.era.int
+
+52.34.82.225
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+
+195.243.153.54
+netname:        RDTS-TRIER-NET
+descr:          rdts AG
+country:        DE
+person:         Thomas Stiren
+address:        Am Wissenschaftspark, 54296, Trier, Deutschland
+
+151.101.114.217
+OrgName:        Fastly
+OrgId:          SKYCA-3
+Address:        PO Box 78266
+City:           San Francisco
+StateProv:      CA
+
+93.184.220.70
+netname:        EDGECAST-NETBLK-03
+descr:          NETBLK-03-EU-93-184-220-0-22
+country:        EU
+person:         Derrick Sawyer
+address:        13031 W Jefferson Blvd #900, Los Angeles, CA 90094
+
+92.123.237.178
+netname:        AKAMAI-PA
+descr:          Akamai Technologies
+country:        EU
+
+
+############ http://www.oecd.org
+
+78.41.129.129
+netname:        oecd
+descr:          OECD - Organisation for Economic Co-Operation and Development
+country:        FR
+
+52.222.246.52
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+Address:        410 Terry Ave N.
+City:           Seattle
+StateProv:      WA
+
+
+############ http://www.eyp.org/
+
+85.13.137.54
+org-name:       Neue Medien Muennich GmbH
+country:        DE
+org-type:       LIR
+
+78.41.128.150
+person:         Anthony Huynh
+address:        OECD/OCDE - EXD/ITN/ISE
+address:        2 rue Andre Pascal
+address:        75775 Paris Cedex 16
+address:        France
+
+93.184.220.29
+netname:        EDGECAST-NETBLK-03
+descr:          NETBLK-03-EU-93-184-220-0-22
+country:        EU
+
+############ https://www.ccre.org
+
+157.240.238.2
+OrgName:        Facebook, Inc.
+OrgId:          THEFA-3
+Address:        1601 Willow Rd.
+City:           Menlo Park
+StateProv:      CA
+
+104.244.42.200
+OrgName:        Twitter Inc.
+OrgId:          TWITT
+Address:        1355 Market Street
+Address:        Suite 900
+City:           San Francisco
+StateProv:      CA
+
+172.217.20.78
+OrgName:        Google LLC
+OrgId:          GOGL
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+
+91.191.159.135
+role:           Magic OnLine DBM
+address:        134 Avenue du Pr?sident Wilson
+address:        93100 Montreuil
+address:        France
+
+78.41.129.129
+address:        OECD / OCDE - EXD/DKI/DSO
+address:        2 rue Andre Pascal
+address:        75016 Paris Cedex 16
+address:        France
+
